@@ -1,0 +1,55 @@
+.Tilt {
+    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+    /* w3c */
+    border-radius: 4%;
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+
+}
+
+.Tilt-inner {
+    margin-top: 1.5rem;
+    /* background-color: #ff0000; */
+
+
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .Tilt-inner {
+        animation: logo-spin infinite 30s linear;
+    }
+}
+
+@keyframes logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .Tilt {
+        animation: App-logo-spin infinite 50s linear;
+    }
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(360deg);
+    }
+
+    to {
+        transform: rotate(0deg);
+    }
+}
+.logo {
+    margin: 3rem;
+}
