@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/face-recognition/static/css/main.2cebf236.css",
+    "main.js": "/face-recognition/static/js/main.7a36e398.js",
+    "static/js/787.85a35644.chunk.js": "/face-recognition/static/js/787.85a35644.chunk.js",
+    "static/media/axios.cjs": "/face-recognition/static/media/axios.af0fc3a0de390edc7890.cjs",
+    "index.html": "/face-recognition/index.html",
+    "main.2cebf236.css.map": "/face-recognition/static/css/main.2cebf236.css.map",
+    "main.7a36e398.js.map": "/face-recognition/static/js/main.7a36e398.js.map",
+    "787.85a35644.chunk.js.map": "/face-recognition/static/js/787.85a35644.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cebf236.css",
+    "static/js/main.7a36e398.js"
+  ]
+}
